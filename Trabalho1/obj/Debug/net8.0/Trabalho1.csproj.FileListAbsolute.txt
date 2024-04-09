@@ -1,0 +1,60 @@
+C:\Users\eudua\OneDrive\Área de Trabalho\fatorial1\Trabalho1_P3\bin\Debug\net8.0\Trabalho1.exe
+C:\Users\eudua\OneDrive\Área de Trabalho\fatorial1\Trabalho1_P3\bin\Debug\net8.0\Trabalho1.deps.json
+C:\Users\eudua\OneDrive\Área de Trabalho\fatorial1\Trabalho1_P3\bin\Debug\net8.0\Trabalho1.runtimeconfig.json
+C:\Users\eudua\OneDrive\Área de Trabalho\fatorial1\Trabalho1_P3\bin\Debug\net8.0\Trabalho1.dll
+C:\Users\eudua\OneDrive\Área de Trabalho\fatorial1\Trabalho1_P3\bin\Debug\net8.0\Trabalho1.pdb
+C:\Users\eudua\OneDrive\Área de Trabalho\fatorial1\Trabalho1_P3\obj\Debug\net8.0\Trabalho1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eudua\OneDrive\Área de Trabalho\fatorial1\Trabalho1_P3\obj\Debug\net8.0\Trabalho1.AssemblyInfoInputs.cache
+C:\Users\eudua\OneDrive\Área de Trabalho\fatorial1\Trabalho1_P3\obj\Debug\net8.0\Trabalho1.AssemblyInfo.cs
+C:\Users\eudua\OneDrive\Área de Trabalho\fatorial1\Trabalho1_P3\obj\Debug\net8.0\Trabalho1.csproj.CoreCompileInputs.cache
+C:\Users\eudua\OneDrive\Área de Trabalho\fatorial1\Trabalho1_P3\obj\Debug\net8.0\Trabalho1.sourcelink.json
+C:\Users\eudua\OneDrive\Área de Trabalho\fatorial1\Trabalho1_P3\obj\Debug\net8.0\Trabalho1.dll
+C:\Users\eudua\OneDrive\Área de Trabalho\fatorial1\Trabalho1_P3\obj\Debug\net8.0\refint\Trabalho1.dll
+C:\Users\eudua\OneDrive\Área de Trabalho\fatorial1\Trabalho1_P3\obj\Debug\net8.0\Trabalho1.pdb
+C:\Users\eudua\OneDrive\Área de Trabalho\fatorial1\Trabalho1_P3\obj\Debug\net8.0\Trabalho1.genruntimeconfig.cache
+C:\Users\eudua\OneDrive\Área de Trabalho\fatorial1\Trabalho1_P3\obj\Debug\net8.0\ref\Trabalho1.dll
+C:\Users\eudua\OneDrive\Área de Trabalho\TrabalhoC\bin\Debug\net8.0\Trabalho1.exe
+C:\Users\eudua\OneDrive\Área de Trabalho\TrabalhoC\bin\Debug\net8.0\Trabalho1.deps.json
+C:\Users\eudua\OneDrive\Área de Trabalho\TrabalhoC\bin\Debug\net8.0\Trabalho1.runtimeconfig.json
+C:\Users\eudua\OneDrive\Área de Trabalho\TrabalhoC\bin\Debug\net8.0\Trabalho1.dll
+C:\Users\eudua\OneDrive\Área de Trabalho\TrabalhoC\bin\Debug\net8.0\Trabalho1.pdb
+C:\Users\eudua\OneDrive\Área de Trabalho\TrabalhoC\obj\Debug\net8.0\Trabalho1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eudua\OneDrive\Área de Trabalho\TrabalhoC\obj\Debug\net8.0\Trabalho1.AssemblyInfoInputs.cache
+C:\Users\eudua\OneDrive\Área de Trabalho\TrabalhoC\obj\Debug\net8.0\Trabalho1.AssemblyInfo.cs
+C:\Users\eudua\OneDrive\Área de Trabalho\TrabalhoC\obj\Debug\net8.0\Trabalho1.csproj.CoreCompileInputs.cache
+C:\Users\eudua\OneDrive\Área de Trabalho\TrabalhoC\obj\Debug\net8.0\Trabalho1.sourcelink.json
+C:\Users\eudua\OneDrive\Área de Trabalho\TrabalhoC\obj\Debug\net8.0\Trabalho1.dll
+C:\Users\eudua\OneDrive\Área de Trabalho\TrabalhoC\obj\Debug\net8.0\refint\Trabalho1.dll
+C:\Users\eudua\OneDrive\Área de Trabalho\TrabalhoC\obj\Debug\net8.0\Trabalho1.pdb
+C:\Users\eudua\OneDrive\Área de Trabalho\TrabalhoC\obj\Debug\net8.0\Trabalho1.genruntimeconfig.cache
+C:\Users\eudua\OneDrive\Área de Trabalho\TrabalhoC\obj\Debug\net8.0\ref\Trabalho1.dll
+C:\Users\eudua\OneDrive - UGB\Programação III\TrabalhoC\bin\Debug\net8.0\Trabalho1.exe
+C:\Users\eudua\OneDrive - UGB\Programação III\TrabalhoC\bin\Debug\net8.0\Trabalho1.deps.json
+C:\Users\eudua\OneDrive - UGB\Programação III\TrabalhoC\bin\Debug\net8.0\Trabalho1.runtimeconfig.json
+C:\Users\eudua\OneDrive - UGB\Programação III\TrabalhoC\bin\Debug\net8.0\Trabalho1.dll
+C:\Users\eudua\OneDrive - UGB\Programação III\TrabalhoC\bin\Debug\net8.0\Trabalho1.pdb
+C:\Users\eudua\OneDrive - UGB\Programação III\TrabalhoC\obj\Debug\net8.0\Trabalho1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eudua\OneDrive - UGB\Programação III\TrabalhoC\obj\Debug\net8.0\Trabalho1.AssemblyInfoInputs.cache
+C:\Users\eudua\OneDrive - UGB\Programação III\TrabalhoC\obj\Debug\net8.0\Trabalho1.AssemblyInfo.cs
+C:\Users\eudua\OneDrive - UGB\Programação III\TrabalhoC\obj\Debug\net8.0\Trabalho1.csproj.CoreCompileInputs.cache
+C:\Users\eudua\OneDrive - UGB\Programação III\TrabalhoC\obj\Debug\net8.0\Trabalho1.sourcelink.json
+C:\Users\eudua\OneDrive - UGB\Programação III\TrabalhoC\obj\Debug\net8.0\Trabalho1.dll
+C:\Users\eudua\OneDrive - UGB\Programação III\TrabalhoC\obj\Debug\net8.0\refint\Trabalho1.dll
+C:\Users\eudua\OneDrive - UGB\Programação III\TrabalhoC\obj\Debug\net8.0\Trabalho1.pdb
+C:\Users\eudua\OneDrive - UGB\Programação III\TrabalhoC\obj\Debug\net8.0\Trabalho1.genruntimeconfig.cache
+C:\Users\eudua\OneDrive - UGB\Programação III\TrabalhoC\obj\Debug\net8.0\ref\Trabalho1.dll
+C:\Users\eudua\Downloads\TrabalhoC\bin\Debug\net8.0\Trabalho1.exe
+C:\Users\eudua\Downloads\TrabalhoC\bin\Debug\net8.0\Trabalho1.deps.json
+C:\Users\eudua\Downloads\TrabalhoC\bin\Debug\net8.0\Trabalho1.runtimeconfig.json
+C:\Users\eudua\Downloads\TrabalhoC\bin\Debug\net8.0\Trabalho1.dll
+C:\Users\eudua\Downloads\TrabalhoC\bin\Debug\net8.0\Trabalho1.pdb
+C:\Users\eudua\Downloads\TrabalhoC\obj\Debug\net8.0\Trabalho1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eudua\Downloads\TrabalhoC\obj\Debug\net8.0\Trabalho1.AssemblyInfoInputs.cache
+C:\Users\eudua\Downloads\TrabalhoC\obj\Debug\net8.0\Trabalho1.AssemblyInfo.cs
+C:\Users\eudua\Downloads\TrabalhoC\obj\Debug\net8.0\Trabalho1.csproj.CoreCompileInputs.cache
+C:\Users\eudua\Downloads\TrabalhoC\obj\Debug\net8.0\Trabalho1.sourcelink.json
+C:\Users\eudua\Downloads\TrabalhoC\obj\Debug\net8.0\Trabalho1.dll
+C:\Users\eudua\Downloads\TrabalhoC\obj\Debug\net8.0\refint\Trabalho1.dll
+C:\Users\eudua\Downloads\TrabalhoC\obj\Debug\net8.0\Trabalho1.pdb
+C:\Users\eudua\Downloads\TrabalhoC\obj\Debug\net8.0\Trabalho1.genruntimeconfig.cache
+C:\Users\eudua\Downloads\TrabalhoC\obj\Debug\net8.0\ref\Trabalho1.dll
